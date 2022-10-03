@@ -44,15 +44,10 @@
 
 ## Задание 2
 - Установил юнити хаб, затем установил Юнити. 
-- ![image](https://user-images.githubusercontent.com/80514942/192501880-a30104f2-bb3b-4031-b073-cf5b2f5444ae.png)
 - Создал проект
-- ![image](https://user-images.githubusercontent.com/80514942/192501929-60b3fa2a-2226-4fac-889f-dc41b7c51288.png)
 - Создал пустой объект 
-- ![image](https://user-images.githubusercontent.com/80514942/192502024-25a0bf14-a46e-4793-87bc-9b30e3bd03c3.png)
 - Создал папку Scripts в Assets 
-- ![image](https://user-images.githubusercontent.com/80514942/192502168-572f42d0-b3cb-4a6c-995b-cbfc11630aee.png)
 - Создал файл C#
-- ![image](https://user-images.githubusercontent.com/80514942/192502270-d6131e39-7a30-466a-9578-92474afa91f0.png)
 - Написал КОД 
 - ![image](https://user-images.githubusercontent.com/80514942/192502320-1c025d35-a01b-414e-8f2c-8bb5d7dbf16e.png)
 - Получил Результат 
